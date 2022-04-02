@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1648733267 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectobancario\sistema_bancario\src\datoscliente.cpp
+	<iostream>
+	<cstring>
+	"datosCliente.h"
+
+1648736206 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectobancario\sistema_bancario\include\datoscliente.h
+	<iostream>
+
+1648736577 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectobancario\sistema_bancario\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"datosCliente.h"
+
+1648742113 source:c:\users\my computer\proyectos\p1\prograuno\archivos\proyectobancario\sistema_bancario\src\datoscliente.cpp
+	<iostream>
+	<cstring>
+	"datosCliente.h"
+
+1648742112 c:\users\my computer\proyectos\p1\prograuno\archivos\proyectobancario\sistema_bancario\include\datoscliente.h
+	<iostream>
+
+1648845821 source:c:\users\my computer\proyectos\p1\prograuno\archivos\proyectobancario\sistema_bancario\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"datosCliente.h"
+
+1648875831 source:c:\users\my computer\proyectos\tareasprogramacion\tareasprogramacion\sistema_bancario_actualizado\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"datosCliente.h"
+
+1648742112 c:\users\my computer\proyectos\tareasprogramacion\tareasprogramacion\sistema_bancario_actualizado\include\datoscliente.h
+	<iostream>
+
+1648742113 source:c:\users\my computer\proyectos\tareasprogramacion\tareasprogramacion\sistema_bancario_actualizado\src\datoscliente.cpp
+	<iostream>
+	<cstring>
+	"datosCliente.h"
+
